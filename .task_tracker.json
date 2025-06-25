@@ -1,0 +1,5 @@
+{
+  "task_description": "{'description': 'an events management app', 'containers': [{'container_name': 'events_backend', 'platform': 'backend', 'framework': 'django', 'description': 'Handles all business logic, user authentication, and data storage for event management.', 'interfaces': 'RESTful API endpoints for event creation, management, and user operations.', 'workspace': 'events_backend_workspace', 'container_root': 'events_backend_workspace/events_backend', 'dependencies': [], 'container_type': 'backend', 'container_details': 'Implements domain models for events, users, venues, and bookings using Django ORM. Provides CRUD APIs and handles authentication, user profiles, event scheduling, and registration.'}], '3rd_party_services': [], 'figma_components': '', 'manifest_path': '/home/kavia/workspace/code-generation/.project_manifest.yaml'}",
+  "tasks": {},
+  "next_task_id": 1
+}
